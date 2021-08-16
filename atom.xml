@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://husuqiang.github.io/grideause/</id>
-    <title>Gridea</title>
-    <updated>2021-08-16T07:01:45.009Z</updated>
+    <title>胡素强的笔记List</title>
+    <updated>2021-08-16T10:59:08.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://husuqiang.github.io/grideause/"/>
     <link rel="self" href="https://husuqiang.github.io/grideause/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>温故知新，学而时习之</subtitle>
     <logo>https://husuqiang.github.io/grideause/images/avatar.png</logo>
     <icon>https://husuqiang.github.io/grideause/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 胡素强的笔记List</rights>
     <entry>
         <title type="html"><![CDATA[第一篇序章]]></title>
         <id>https://husuqiang.github.io/grideause/post/di-yi-pian-xu-zhang/</id>
